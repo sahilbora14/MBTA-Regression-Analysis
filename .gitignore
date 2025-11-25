@@ -1,0 +1,29 @@
+# R Data Files
+*.RData
+*.rdata
+*.Rdata
+
+# R History
+.Rhistory
+
+# R User Files
+.Rproj.user/
+.Rproj.user
+
+# Output files
+Output/*.pdf
+Output/*.png
+Output/*.jpg
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
